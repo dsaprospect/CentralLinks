@@ -71,7 +71,7 @@
     background-color: var(--bg-color-buttom);
     border-radius: 6px;
     margin-bottom: 15px;
-    transition: background 250ms;
+    transition: background 350ms;
     color: white;
     text-transform: uppercase;  
     font-size: 14px;
